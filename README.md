@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Head-BOB
-- 👀 Nothing Special Ultra Noob
-- Stark Studios
+- Its me @Hunter
+- Minecraft Server developer
+- @Stark Studios
