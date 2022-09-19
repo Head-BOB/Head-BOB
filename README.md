@@ -1,3 +1,3 @@
 - Its me @Hunter
 - Minecraft Server developer
-- @Stark Studios
+- Developer @Stark Studios
